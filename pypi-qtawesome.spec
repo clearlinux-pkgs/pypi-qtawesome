@@ -4,7 +4,7 @@
 #
 Name     : pypi-qtawesome
 Version  : 1.1.1
-Release  : 40
+Release  : 41
 URL      : https://files.pythonhosted.org/packages/ce/f7/c676bc51c42e48e0f081d53c97fedaa237b60e5bdd65885c79e3cec952aa/QtAwesome-1.1.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ce/f7/c676bc51c42e48e0f081d53c97fedaa237b60e5bdd65885c79e3cec952aa/QtAwesome-1.1.1.tar.gz
 Summary  : FontAwesome icons in PyQt and PySide applications
@@ -15,9 +15,6 @@ Requires: pypi-qtawesome-license = %{version}-%{release}
 Requires: pypi-qtawesome-python = %{version}-%{release}
 Requires: pypi-qtawesome-python3 = %{version}-%{release}
 BuildRequires : buildreq-distutils3
-Provides: QtAwesome
-Provides: QtAwesome-python
-Provides: QtAwesome-python3
 BuildRequires : pypi(qtpy)
 
 %description
@@ -78,7 +75,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1641487476
+export SOURCE_DATE_EPOCH=1651016337
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$FFLAGS -fno-lto "
