@@ -7,7 +7,7 @@
 #
 Name     : pypi-qtawesome
 Version  : 1.3.0
-Release  : 55
+Release  : 56
 URL      : https://files.pythonhosted.org/packages/5e/60/dfad2e1539690bdfa309c4fe8ecf6938a7ee08813e07f5dc5ae371966d03/QtAwesome-1.3.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/5e/60/dfad2e1539690bdfa309c4fe8ecf6938a7ee08813e07f5dc5ae371966d03/QtAwesome-1.3.0.tar.gz
 Summary  : FontAwesome icons in PyQt and PySide applications
