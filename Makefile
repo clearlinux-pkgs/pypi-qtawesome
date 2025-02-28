@@ -1,5 +1,5 @@
 PKG_NAME := pypi-qtawesome
-URL = https://files.pythonhosted.org/packages/a4/be/3fa8df267d0651597acdefe124cd1595d3839aed3ce97da902efc44a2160/QtAwesome-1.3.1.tar.gz
+URL = https://files.pythonhosted.org/packages/56/57/2f6c402b4cd91a58fd378a5f36be6b5855cf43dc25f77f581e2612e6d558/qtawesome-1.4.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
